@@ -42,5 +42,5 @@ A simple real-time chat application built with React and Appwrite. It includes u
    ```
 
 ## Live Demo
-[click here to view the live app](deluxe-taffy-d271ea.netlify.app)
+[click here to view the live app](https://deluxe-taffy-d271ea.netlify.app)
 
